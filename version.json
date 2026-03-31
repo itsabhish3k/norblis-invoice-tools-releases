@@ -1,5 +1,9 @@
 {
-  "version": "0.8.1",
-  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.1/NorblisInvoiceTools_v0.8.1.zip",
-  "notes": "UI copy cleanup, smoother stamp preview updates, reduced tab-switch redraws"
+  "version": "0.8.2",
+  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.2/NorblisInvoiceTools_v0.8.2.zip",
+  "portable_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.2/NorblisInvoiceTools_v0.8.2.zip",
+  "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.2/NorblisInvoiceTools_v0.8.2.zip",
+  "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.2/NORBLIS_Invoice_Tools_v0.8.2_Setup.exe",
+  "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.2/NORBLIS_Invoice_Tools_v0.8.2_Setup.exe",
+  "notes": "Updater package selection fixed, Help tab scrolling restored, and help content expanded."
 }
