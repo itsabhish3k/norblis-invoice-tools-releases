@@ -1,9 +1,9 @@
 {
-  "version": "0.8.3",
-  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.3/NorblisInvoiceTools_v0.8.3.zip",
-  "portable_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.3/NorblisInvoiceTools_v0.8.3.zip",
-  "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.3/NorblisInvoiceTools_v0.8.3.zip",
-  "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.3/NORBLIS_Invoice_Tools_v0.8.3_Setup.exe",
-  "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.3/NORBLIS_Invoice_Tools_v0.8.3_Setup.exe",
-  "notes": "Packaging fix for bundled tkinter, updater paths preserved for installer and zip builds, and Help tab improvements remain included."
+  "version": "0.8.4",
+  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.4/NorblisInvoiceTools_v0.8.4.zip",
+  "portable_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.4/NorblisInvoiceTools_v0.8.4.zip",
+  "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.4/NorblisInvoiceTools_v0.8.4.zip",
+  "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.4/NORBLIS_Invoice_Tools_v0.8.4_Setup.exe",
+  "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.4/NORBLIS_Invoice_Tools_v0.8.4_Setup.exe",
+  "notes": "Stable v0.8.4 release with working tkinter packaging, restored icon glyphs, and the Invoice Processor manual text selection fix."
 }
