@@ -1,9 +1,9 @@
 {
-  "version": "0.8.5",
-  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.5/NorblisInvoiceTools_v0.8.5.zip",
-  "portable_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.5/NorblisInvoiceTools_v0.8.5.zip",
-  "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.5/NorblisInvoiceTools_v0.8.5.zip",
-  "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.5/NORBLIS_Invoice_Tools_v0.8.5_Setup.exe",
-  "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v0.8.5/NORBLIS_Invoice_Tools_v0.8.5_Setup.exe",
-  "notes": "Promotes the improved detector to stable, adds stronger date parsing, fixes vendor auto-selection in the dropdown, and ships the verified cx_Freeze-based Windows build for both zip and installer updates."
+  "version": "1.0.0",
+  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NorblisInvoiceTools_v1.0.0.zip",
+  "portable_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NorblisInvoiceTools_v1.0.0.zip",
+  "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NorblisInvoiceTools_v1.0.0.zip",
+  "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NORBLIS_Invoice_Tools_v1.0.0_Setup.exe",
+  "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NORBLIS_Invoice_Tools_v1.0.0_Setup.exe",
+  "notes": "First stable v1 release with modularized packaging, private local OCR for PDF and image invoices, stronger content-based detection, safer learning from grounded corrections, and verified portable plus installer Windows builds."
 }
