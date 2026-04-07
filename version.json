@@ -5,5 +5,5 @@
   "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NorblisInvoiceTools_v1.0.0.zip",
   "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NORBLIS_Invoice_Tools_v1.0.0_Setup.exe",
   "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.0.0/NORBLIS_Invoice_Tools_v1.0.0_Setup.exe",
-  "notes": "Refreshed v1.0.0 stable release with bundled offline OCR for clean Windows installs, hardened Tesseract launch fallback in the packaged app, stronger content-based detection, and safer grounded learning."
+  "notes": "Refreshed v1.0.0 stable release with improved image-PDF stamping, stronger Invoice Search total detection with targeted OCR fallback, keyword search across detected details, visible scan progress updates, and bundled offline OCR for clean Windows installs."
 }
