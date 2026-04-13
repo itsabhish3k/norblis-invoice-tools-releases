@@ -1,9 +1,9 @@
 {
-  "version": "1.2",
-  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.2/NorblisInvoiceTools_v1.2.zip",
-  "portable_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.2/NorblisInvoiceTools_v1.2.zip",
-  "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.2/NorblisInvoiceTools_v1.2.zip",
-  "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.2/NORBLIS_Invoice_Tools_v1.2_Setup.exe",
-  "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.2/NORBLIS_Invoice_Tools_v1.2_Setup.exe",
-  "notes": "Stable 1.2 release with corrected invoice-search filename review for renamed invoices, improved date and detail extraction, more reliable total and currency detection across the full invoice archive, and verified Windows packaging with bundled offline OCR."
+  "version": "1.3",
+  "download_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.3/NorblisInvoiceTools_v1.3.zip",
+  "portable_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.3/NorblisInvoiceTools_v1.3.zip",
+  "zip_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.3/NorblisInvoiceTools_v1.3.zip",
+  "installer_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.3/NORBLIS_Invoice_Tools_v1.3_Setup.exe",
+  "exe_url": "https://github.com/itsabhish3k/norblis-invoice-tools-releases/releases/download/v1.3/NORBLIS_Invoice_Tools_v1.3_Setup.exe",
+  "notes": "Stable 1.3 release with stronger processor-side invoice, order, vendor, and date detection validated against fully manual ground truth, plus verified invoice-search, stamp/export, and bundled offline OCR packaging."
 }
